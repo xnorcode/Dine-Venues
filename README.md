@@ -5,8 +5,8 @@ This app is ideal if you are looking for a dining place in a fast, simple and ef
 ## Screenshots
 #### Phone View
 <p align="center">
-  <img height="200" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/phone1.png">
-  <img height="200" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/phone2.png">
+  <img height="600" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/phone1.png">
+  <img height="600" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/phone2.png">
 </p>
 <p align="center">
   <img height="200" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/phone3.png">
