@@ -9,9 +9,15 @@ This app is ideal if you are looking for a dining place in a fast, simple and ef
   <img height="600" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/phone2.png">
 </p>
 <p align="center">
-  <img height="200" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/phone3.png">
+  <img height="400" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/phone3.png">
 </p>
 
 #### Tablet View
-| ![tablet1](https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet1.png) | ![tablet2](https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet2.png) | ![tablet3](https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet3.png) | ![tablet4](https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet4.png) |
-|:---:|:---:|:---:|:---:|
+<p align="center">
+  <img height="400" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet1.png">
+  <img height="400" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet2.png">
+</p>
+<p align="center">
+  <img height="400" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet3.png">
+  <img height="400" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet4.png">
+</p>
