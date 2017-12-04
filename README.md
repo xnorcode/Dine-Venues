@@ -12,12 +12,12 @@ This app is ideal if you are looking for a dining place in a fast, simple and ef
   <img height="400" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/phone3.png">
 </p>
 
-#### Tablet View
 <p align="center">
-  <img height="400" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet1.png">
-  <img height="400" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet2.png">
+#### Tablet View
+  <img height="200" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet1.png">
+  <img height="200" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet2.png">
 </p>
 <p align="center">
-  <img height="400" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet3.png">
-  <img height="400" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet4.png">
+  <img height="200" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet3.png">
+  <img height="200" src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/tablet4.png">
 </p>
