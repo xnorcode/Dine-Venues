@@ -1,7 +1,7 @@
 # Dine-Venues
 Dine Venues is a free to download Restaurant Finder app. You can search restaurants nearby or in specific locations by searching the area name or picking the location on a map.
 This app is ideal if you are looking for a dining place in a fast, simple and efficient way.
-##### Download it on [Play Store](https://play.google.com/store/apps/details?id=com.gcna.dinevenues)
+#### Download it on [Play Store](https://play.google.com/store/apps/details?id=com.gcna.dinevenues)
 ## Screenshots
 Phone and Tablet Views
 <p align="center">
