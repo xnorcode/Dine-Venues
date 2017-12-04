@@ -4,7 +4,7 @@ This app is ideal if you are looking for a dining place in a fast, simple and ef
 ##### Download it now on [Play Store](https://play.google.com/store/apps/details?id=com.gcna.dinevenues)
 ## Screenshots
 #### Phone View
-<p float="left">
+<p align="center" height="200">
   <img src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/phone1.png">
   <img src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/phone2.png">
   <img src="https://github.com/andreasioannoutech/Dine-Venues/blob/master/screenshots/phone3.png">
