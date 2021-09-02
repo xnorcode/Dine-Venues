@@ -1,6 +1,6 @@
 # Dine Venues
-Dine Venues is a free to download Restaurant Finder app. You can search restaurants nearby or in specific locations by searching the area name or picking the location on a map.
-This app is ideal if you are looking for a dining place in a fast, simple and efficient way.
+Dine Venues is a free to download real-time restaurant finder mobile app. You can search restaurants nearby or in specific locations by searching the area name or picking the location on a map. Combining Google Places API with Zomato data Dine Venues is ideal to get accurate information for a dining place at the moment in a fast, simple and efficient way.
+You can download it [here](https://xnorcode.com/dine-venues)
 
 ## Screenshots
 <p align="center">
